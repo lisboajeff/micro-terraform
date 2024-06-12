@@ -1,0 +1,4 @@
+certificates:
+  - name: knin.cloud
+    wildcards:
+      - "*.knin.cloud"
